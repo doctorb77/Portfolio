@@ -9,6 +9,9 @@ Chess Board Scale and Emission demo
 Transforming Ball Translation demo
 <img src="https://i.imgur.com/AXcoeZB.jpg"/>
 
+## Elementrium (Mobile Game) - https://github.com/doctorb77/Elementrium-Phone-Game---307Project-
+[PICTURE ADDED SOON]
+
 ## Quest of the Juggernaut [2014] (NES Styled GameJam) - https://gamejolt.com/games/QuestOfthejuggernaut/33121
 <img src="https://m.gjcdn.net/screenshot-thumbnail/1200x2000/64706-v3.jpg"/>
 
